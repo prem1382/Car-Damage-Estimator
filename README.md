@@ -4,6 +4,9 @@
 
 **AI-powered vehicle damage assessment & instant repair cost estimation, built for the Indian automotive market.**
 
+View my website in : https://ai-car-damage-detection-estimator.onrender.com 
+
+
 </div>
 
 ---
@@ -100,6 +103,5 @@ The **AI Car Damage Estimator** brings speed, transparency, and consistency to v
 
 ## Author
 
-**Sathiesh Kumar M**
+**Prem Kumar M**
 
-View my website in : https://ai-car-damage-detection-estimator.onrender.com 
